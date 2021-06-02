@@ -1,0 +1,5 @@
+- 👋 Hi, I’m shuxiao
+- 👀 I’m interested in music and reading
+- 🌱 I’m currently learning JavaScript and frontend
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me ...
